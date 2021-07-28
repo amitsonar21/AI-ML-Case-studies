@@ -1,4 +1,3 @@
 # AI-ML-Case-studies
-###My projects
-
-####This is the test project
+### My projects 
+#### This is the test project
